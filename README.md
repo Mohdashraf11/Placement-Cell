@@ -1,0 +1,1 @@
+This is my major project named "PLACEMENT CELL" . In this project we cretae a website where students can login and search for any new company arrives in college for placement and they can apply in it with the help of using our website . 
